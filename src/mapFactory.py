@@ -31,12 +31,13 @@ class MapFactory:
             print(f"ERROR: missing or invalid 'metadata' layer in ../mapsData/{map_id}/map.tmx")
             exit()
 
-        factions_data = load(open(self.path + "factions.json")) 
-        unit_types = load(open(self.path + "unit_types.json", 'r'))
-        units_data = load(open(self.path + "units.json")) 
-        time_data = load(open(self.path + "time.json")) 
-        turn_data = load(open(self.path + "turn.json"))
-        landmark_detail_data = load(open(self.path + "landmarks.json"))
+        factions_data = self.loadJson(self.path + "factions.json")
+        unit_types = self.loadJson(self.path + "unit_types.json")
+        units_data = self.loadJson(self.path + "units.json")
+        time_data = self.loadJson(self.path + "time.json")
+        turn_data = self.loadJson(self.path + "turn.json")
+        landmark_detail_data = self.loadJson(self.path + "landmarks.json")
+        description_data = self.loadJson(self.path + "description.json")
 
         terrain_data = self.getXmlArray("layer", "terrain", 1)
         front_data = self.getXmlArray("layer", "front", 8)
@@ -54,6 +55,7 @@ class MapFactory:
         self.map.createMetadata(width=int(self.tree_root.attrib["width"]))
         self.map.createMetadata(height=int(self.tree_root.attrib["height"]))
         self.map.createMetadata(type="original")
+        self.map.createMetadata(description=description_data["description"])
 
         self.map.createTime(**time_data)
         self.map.createTurn(**turn_data)     
@@ -213,6 +215,11 @@ class MapFactory:
                 return True
             case _:
                 print(f"ERROR: getPortByValue: invalid port value {value} (y={cy}, x={cx})")
+
+    def loadJson(self, path):
+        with open(path, "r") as file:
+            return load(file)
+        
 
 if __name__ == "__main__":
     if len(argv) == 1:
