@@ -104,21 +104,21 @@
 			"name": "Ancona",
 			"faction": "neutral",
 			"population": 0
-		},	
+		},
 		{
 			"x": 2,
 			"y": 51,
 			"name": "Pescara",
 			"faction": "neutral",
 			"population": 0
-		},	
+		},
 		{
 			"x": 28,
 			"y": 33,
 			"name": "Vinnytsia",
 			"faction": "neutral",
 			"population": 0
-		},		
+		},
 		{
 			"x": 26,
 			"y": 35,
@@ -222,7 +222,7 @@
 			"y": 5,
 			"name": "Leningrad",
 			"faction": "neutral",
-			"population": 1
+			"population": 0.75
 		},
 		{
 			"x": 26,
@@ -285,7 +285,7 @@
 			"y": 13,
 			"name": "Yaroslav",
 			"faction": "neutral",
-			"population": 0.5
+			"population": 0.25
 		},
 		{
 			"x": 6,
@@ -320,7 +320,7 @@
 			"y": 18,
 			"name": "Berlin",
 			"faction": "neutral",
-			"population": 1
+			"population": 0.75
 		},
 		{
 			"x": 13,
@@ -348,7 +348,7 @@
 			"y": 17,
 			"name": "Moscow",
 			"faction": "neutral",
-			"population": 1
+			"population": 0.75
 		},
 		{
 			"x": 56,
@@ -390,7 +390,7 @@
 			"y": 21,
 			"name": "Minsk",
 			"faction": "neutral",
-			"population": 0.5
+			"population": 0.25
 		},
 		{
 			"x": 35,
@@ -432,7 +432,7 @@
 			"y": 23,
 			"name": "Warsaw",
 			"faction": "neutral",
-			"population": 0.5
+			"population": 0.25
 		},
 		{
 			"x": 57,
@@ -551,7 +551,7 @@
 			"y": 29,
 			"name": "Kiev",
 			"faction": "neutral",
-			"population": 0.5
+			"population": 0.25
 		},
 		{
 			"x": 23,
@@ -565,14 +565,14 @@
 			"y": 30,
 			"name": "Kharkov",
 			"faction": "neutral",
-			"population": 0.5
+			"population": 0.25
 		},
 		{
 			"x": 9,
 			"y": 32,
 			"name": "Vienna",
 			"faction": "neutral",
-			"population": 0.5
+			"population": 0.25
 		},
 		{
 			"x": 11,
@@ -586,7 +586,7 @@
 			"y": 34,
 			"name": "Budapest",
 			"faction": "neutral",
-			"population": 0.5
+			"population": 0.25
 		},
 		{
 			"x": 39,
@@ -600,7 +600,7 @@
 			"y": 35,
 			"name": "Stalingrad",
 			"faction": "neutral",
-			"population": 1
+			"population": 0.75
 		},
 		{
 			"x": 45,
@@ -642,7 +642,7 @@
 			"y": 39,
 			"name": "Odessa",
 			"faction": "neutral",
-			"population": 0.5
+			"population": 0.25
 		},
 		{
 			"x": 44,
@@ -719,7 +719,7 @@
 			"y": 45,
 			"name": "Bucharest",
 			"faction": "neutral",
-			"population": 0.5
+			"population": 0.25
 		},
 		{
 			"x": 44,
@@ -789,7 +789,7 @@
 			"y": 53,
 			"name": "Baku",
 			"faction": "neutral",
-			"population": 0.5
+			"population": 0.25
 		},
 		{
 			"x": 43,
