@@ -1,5 +1,412 @@
 {
-    "city": [],
-    "supply": [],
-    "oilfield": []
+  "city": [
+    {
+      "x": 4,
+      "y": 0,
+      "name": "CITY_NAME",
+      "faction": "soviets",
+      "population": 0
+    },
+    {
+      "x": 18,
+      "y": 1,
+      "name": "CITY_NAME",
+      "faction": "soviets",
+      "population": 0
+    },
+    {
+      "x": 28,
+      "y": 1,
+      "name": "CITY_NAME",
+      "faction": "soviets",
+      "population": 0
+    },
+    {
+      "x": 8,
+      "y": 2,
+      "name": "CITY_NAME",
+      "faction": "soviets",
+      "population": 0
+    },
+    {
+      "x": 17,
+      "y": 3,
+      "name": "CITY_NAME",
+      "faction": "soviets",
+      "population": 0
+    },
+    {
+      "x": 32,
+      "y": 3,
+      "name": "CITY_NAME",
+      "faction": "soviets",
+      "population": 0
+    },
+    {
+      "x": 3,
+      "y": 4,
+      "name": "CITY_NAME",
+      "faction": "soviets",
+      "population": 0
+    },
+    {
+      "x": 17,
+      "y": 4,
+      "name": "CITY_NAME",
+      "faction": "soviets",
+      "population": 0
+    },
+    {
+      "x": 16,
+      "y": 5,
+      "name": "CITY_NAME",
+      "faction": "soviets",
+      "population": 0
+    },
+    {
+      "x": 17,
+      "y": 5,
+      "name": "CITY_NAME",
+      "faction": "soviets",
+      "population": 0
+    },
+    {
+      "x": 21,
+      "y": 5,
+      "name": "CITY_NAME",
+      "faction": "soviets",
+      "population": 0
+    },
+    {
+      "x": 34,
+      "y": 5,
+      "name": "CITY_NAME",
+      "faction": "soviets",
+      "population": 0
+    },
+    {
+      "x": 38,
+      "y": 5,
+      "name": "CITY_NAME",
+      "faction": "soviets",
+      "population": 0
+    },
+    {
+      "x": 21,
+      "y": 6,
+      "name": "CITY_NAME",
+      "faction": "soviets",
+      "population": 0
+    },
+    {
+      "x": 36,
+      "y": 7,
+      "name": "CITY_NAME",
+      "faction": "soviets",
+      "population": 0
+    },
+    {
+      "x": 2,
+      "y": 8,
+      "name": "CITY_NAME",
+      "faction": "soviets",
+      "population": 0
+    },
+    {
+      "x": 9,
+      "y": 9,
+      "name": "CITY_NAME",
+      "faction": "soviets",
+      "population": 0
+    },
+    {
+      "x": 29,
+      "y": 10,
+      "name": "CITY_NAME",
+      "faction": "soviets",
+      "population": 0
+    },
+    {
+      "x": 11,
+      "y": 11,
+      "name": "CITY_NAME",
+      "faction": "soviets",
+      "population": 0
+    },
+    {
+      "x": 38,
+      "y": 11,
+      "name": "CITY_NAME",
+      "faction": "soviets",
+      "population": 0
+    },
+    {
+      "x": 7,
+      "y": 13,
+      "name": "CITY_NAME",
+      "faction": "soviets",
+      "population": 0
+    },
+    {
+      "x": 40,
+      "y": 13,
+      "name": "CITY_NAME",
+      "faction": "soviets",
+      "population": 0
+    },
+    {
+      "x": 0,
+      "y": 14,
+      "name": "CITY_NAME",
+      "faction": "soviets",
+      "population": 0
+    },
+    {
+      "x": 18,
+      "y": 16,
+      "name": "CITY_NAME",
+      "faction": "soviets",
+      "population": 0
+    },
+    {
+      "x": 31,
+      "y": 16,
+      "name": "CITY_NAME",
+      "faction": "soviets",
+      "population": 0
+    },
+    {
+      "x": 37,
+      "y": 16,
+      "name": "CITY_NAME",
+      "faction": "soviets",
+      "population": 0
+    },
+    {
+      "x": 11,
+      "y": 17,
+      "name": "CITY_NAME",
+      "faction": "soviets",
+      "population": 0
+    },
+    {
+      "x": 22,
+      "y": 17,
+      "name": "CITY_NAME",
+      "faction": "soviets",
+      "population": 0
+    },
+    {
+      "x": 28,
+      "y": 17,
+      "name": "CITY_NAME",
+      "faction": "soviets",
+      "population": 0
+    },
+    {
+      "x": 39,
+      "y": 17,
+      "name": "CITY_NAME",
+      "faction": "soviets",
+      "population": 0
+    },
+    {
+      "x": 41,
+      "y": 18,
+      "name": "CITY_NAME",
+      "faction": "soviets",
+      "population": 0
+    },
+    {
+      "x": 4,
+      "y": 19,
+      "name": "CITY_NAME",
+      "faction": "soviets",
+      "population": 0
+    },
+    {
+      "x": 0,
+      "y": 20,
+      "name": "CITY_NAME",
+      "faction": "soviets",
+      "population": 0
+    },
+    {
+      "x": 22,
+      "y": 22,
+      "name": "CITY_NAME",
+      "faction": "soviets",
+      "population": 0
+    },
+    {
+      "x": 29,
+      "y": 22,
+      "name": "CITY_NAME",
+      "faction": "soviets",
+      "population": 0
+    },
+    {
+      "x": 4,
+      "y": 24,
+      "name": "CITY_NAME",
+      "faction": "soviets",
+      "population": 0
+    },
+    {
+      "x": 34,
+      "y": 24,
+      "name": "CITY_NAME",
+      "faction": "soviets",
+      "population": 0
+    },
+    {
+      "x": 41,
+      "y": 25,
+      "name": "CITY_NAME",
+      "faction": "soviets",
+      "population": 0
+    },
+    {
+      "x": 16,
+      "y": 26,
+      "name": "CITY_NAME",
+      "faction": "soviets",
+      "population": 0
+    },
+    {
+      "x": 27,
+      "y": 27,
+      "name": "CITY_NAME",
+      "faction": "soviets",
+      "population": 0
+    },
+    {
+      "x": 3,
+      "y": 29,
+      "name": "CITY_NAME",
+      "faction": "soviets",
+      "population": 0
+    },
+    {
+      "x": 25,
+      "y": 29,
+      "name": "CITY_NAME",
+      "faction": "soviets",
+      "population": 0
+    },
+    {
+      "x": 32,
+      "y": 30,
+      "name": "CITY_NAME",
+      "faction": "soviets",
+      "population": 0
+    },
+    {
+      "x": 36,
+      "y": 32,
+      "name": "CITY_NAME",
+      "faction": "soviets",
+      "population": 0
+    },
+    {
+      "x": 1,
+      "y": 33,
+      "name": "CITY_NAME",
+      "faction": "soviets",
+      "population": 0
+    },
+    {
+      "x": 16,
+      "y": 33,
+      "name": "CITY_NAME",
+      "faction": "soviets",
+      "population": 0
+    },
+    {
+      "x": 2,
+      "y": 35,
+      "name": "CITY_NAME",
+      "faction": "soviets",
+      "population": 0
+    },
+    {
+      "x": 32,
+      "y": 36,
+      "name": "CITY_NAME",
+      "faction": "soviets",
+      "population": 0
+    },
+    {
+      "x": 21,
+      "y": 37,
+      "name": "CITY_NAME",
+      "faction": "soviets",
+      "population": 0
+    },
+    {
+      "x": 26,
+      "y": 37,
+      "name": "CITY_NAME",
+      "faction": "soviets",
+      "population": 0
+    }
+  ],
+  "supply": [
+    {
+      "x": 4,
+      "y": 1,
+      "faction": "axis"
+    },
+    {
+      "x": 16,
+      "y": 4,
+      "faction": "axis"
+    },
+    {
+      "x": 17,
+      "y": 16,
+      "faction": "axis"
+    },
+    {
+      "x": 0,
+      "y": 18,
+      "faction": "axis"
+    },
+    {
+      "x": 41,
+      "y": 19,
+      "faction": "soviets"
+    },
+    {
+      "x": 28,
+      "y": 22,
+      "faction": "axis"
+    },
+    {
+      "x": 41,
+      "y": 23,
+      "faction": "soviets"
+    },
+    {
+      "x": 41,
+      "y": 33,
+      "faction": "soviets"
+    },
+    {
+      "x": 0,
+      "y": 35,
+      "faction": "soviets"
+    },
+    {
+      "x": 41,
+      "y": 15,
+      "faction": "soviets"
+    },
+    {
+      "x": 40,
+      "y": 0,
+      "faction": "soviets"
+    }
+  ],
+  "oilfield": []
 }
