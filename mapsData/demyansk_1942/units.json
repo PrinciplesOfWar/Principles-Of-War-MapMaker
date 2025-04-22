@@ -99,8 +99,8 @@
 		"movement": 0
 	},
 	{
-		"x": 23,
-		"y": 18,
+		"x": 21,
+		"y": 17,
 		"faction": "axis",
 		"unit_type": "axis_fortification",
 		"attack": 0,
@@ -483,7 +483,7 @@
 		"unit_type": "soviet_tank_unit",
 		"attack": 2,
 		"defense": 2,
-		"movement": 3
+		"movement": 4
 	},
 	{
 		"x": 23,
@@ -492,16 +492,7 @@
 		"unit_type": "soviet_tank_unit",
 		"attack": 2,
 		"defense": 2,
-		"movement": 3
-	},
-	{
-		"x": 27,
-		"y": 16,
-		"faction": "soviets",
-		"unit_type": "soviet_tank_unit",
-		"attack": 2,
-		"defense": 2,
-		"movement": 3
+		"movement": 4
 	},
 	{
 		"x": 23,
@@ -510,7 +501,7 @@
 		"unit_type": "soviet_tank_unit",
 		"attack": 2,
 		"defense": 2,
-		"movement": 3
+		"movement": 4
 	},
 	{
 		"x": 22,
@@ -519,7 +510,7 @@
 		"unit_type": "soviet_tank_unit",
 		"attack": 2,
 		"defense": 2,
-		"movement": 3
+		"movement": 4
 	},
 	{
 		"x": 25,
@@ -528,7 +519,7 @@
 		"unit_type": "soviet_tank_unit",
 		"attack": 2,
 		"defense": 2,
-		"movement": 3
+		"movement": 4
 	},
 	{
 		"x": 27,
@@ -537,7 +528,7 @@
 		"unit_type": "soviet_tank_unit",
 		"attack": 2,
 		"defense": 2,
-		"movement": 3
+		"movement": 4
 	},
 	{
 		"x": 20,

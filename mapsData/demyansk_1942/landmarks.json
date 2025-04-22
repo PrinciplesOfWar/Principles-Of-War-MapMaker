@@ -3,350 +3,329 @@
     {
       "x": 4,
       "y": 0,
-      "name": "CITY_NAME",
+      "name": "Luga",
       "faction": "soviets",
       "population": 0
     },
     {
       "x": 18,
       "y": 1,
-      "name": "CITY_NAME",
+      "name": "Podbereziye",
       "faction": "soviets",
       "population": 0
     },
     {
       "x": 28,
       "y": 1,
-      "name": "CITY_NAME",
+      "name": "Mstinskii Most",
       "faction": "soviets",
       "population": 0
     },
     {
       "x": 8,
       "y": 2,
-      "name": "CITY_NAME",
-      "faction": "soviets",
-      "population": 0
-    },
-    {
-      "x": 17,
-      "y": 3,
-      "name": "CITY_NAME",
+      "name": "Batetskii",
       "faction": "soviets",
       "population": 0
     },
     {
       "x": 32,
       "y": 3,
-      "name": "CITY_NAME",
+      "name": "Torbino",
       "faction": "soviets",
       "population": 0
     },
     {
       "x": 3,
       "y": 4,
-      "name": "CITY_NAME",
+      "name": "Volodarskoe",
       "faction": "soviets",
       "population": 0
     },
     {
       "x": 17,
       "y": 4,
-      "name": "CITY_NAME",
-      "faction": "soviets",
-      "population": 0
-    },
-    {
-      "x": 16,
-      "y": 5,
-      "name": "CITY_NAME",
-      "faction": "soviets",
-      "population": 0
-    },
-    {
-      "x": 17,
-      "y": 5,
-      "name": "CITY_NAME",
+      "name": "Veliky Novgorod",
       "faction": "soviets",
       "population": 0
     },
     {
       "x": 21,
       "y": 5,
-      "name": "CITY_NAME",
+      "name": "Belaya Gora",
       "faction": "soviets",
       "population": 0
     },
     {
       "x": 34,
       "y": 5,
-      "name": "CITY_NAME",
+      "name": "Borovyonka",
       "faction": "soviets",
       "population": 0
     },
     {
       "x": 38,
       "y": 5,
-      "name": "CITY_NAME",
+      "name": "Kulotino",
       "faction": "soviets",
       "population": 0
     },
     {
       "x": 21,
       "y": 6,
-      "name": "CITY_NAME",
+      "name": "Proletariy",
       "faction": "soviets",
       "population": 0
     },
     {
       "x": 36,
       "y": 7,
-      "name": "CITY_NAME",
+      "name": "Okulovka",
       "faction": "soviets",
       "population": 0
     },
     {
       "x": 2,
       "y": 8,
-      "name": "CITY_NAME",
+      "name": "Zapol'e",
       "faction": "soviets",
       "population": 0
     },
     {
       "x": 9,
       "y": 9,
-      "name": "CITY_NAME",
+      "name": "Medved'",
       "faction": "soviets",
       "population": 0
     },
     {
       "x": 29,
       "y": 10,
-      "name": "CITY_NAME",
+      "name": "Kresttsy",
       "faction": "soviets",
       "population": 0
     },
     {
       "x": 11,
       "y": 11,
-      "name": "CITY_NAME",
+      "name": "Shimsk",
       "faction": "soviets",
       "population": 0
     },
     {
       "x": 38,
       "y": 11,
-      "name": "CITY_NAME",
+      "name": "Uglovka",
       "faction": "soviets",
       "population": 0
     },
     {
       "x": 7,
       "y": 13,
-      "name": "CITY_NAME",
+      "name": "Soltsy",
       "faction": "soviets",
       "population": 0
     },
     {
       "x": 40,
       "y": 13,
-      "name": "CITY_NAME",
+      "name": "Lykoshino",
       "faction": "soviets",
       "population": 0
     },
     {
       "x": 0,
       "y": 14,
-      "name": "CITY_NAME",
+      "name": "Dubrovno",
       "faction": "soviets",
       "population": 0
     },
     {
       "x": 18,
       "y": 16,
-      "name": "CITY_NAME",
+      "name": "Staraya Russa",
       "faction": "soviets",
       "population": 0
     },
     {
       "x": 31,
       "y": 16,
-      "name": "CITY_NAME",
+      "name": "Semyonovshchina",
       "faction": "soviets",
       "population": 0
     },
     {
       "x": 37,
       "y": 16,
-      "name": "CITY_NAME",
+      "name": "Valday",
       "faction": "soviets",
       "population": 0
     },
     {
       "x": 11,
       "y": 17,
-      "name": "CITY_NAME",
+      "name": "Volot",
       "faction": "soviets",
       "population": 0
     },
     {
-      "x": 22,
+      "x": 21,
       "y": 17,
-      "name": "CITY_NAME",
+      "name": "Parfino",
       "faction": "soviets",
       "population": 0
     },
     {
       "x": 28,
       "y": 17,
-      "name": "CITY_NAME",
+      "name": "Lychkovo",
       "faction": "soviets",
       "population": 0
     },
     {
       "x": 39,
       "y": 17,
-      "name": "CITY_NAME",
+      "name": "Yedrovo",
       "faction": "soviets",
       "population": 0
     },
     {
       "x": 41,
       "y": 18,
-      "name": "CITY_NAME",
+      "name": "Vypolzovo",
       "faction": "soviets",
       "population": 0
     },
     {
       "x": 4,
       "y": 19,
-      "name": "CITY_NAME",
+      "name": "Dno",
       "faction": "soviets",
       "population": 0
     },
     {
       "x": 0,
       "y": 20,
-      "name": "CITY_NAME",
+      "name": "Porhov",
       "faction": "soviets",
       "population": 0
     },
     {
       "x": 22,
       "y": 22,
-      "name": "CITY_NAME",
+      "name": "Zaluch'e",
       "faction": "soviets",
       "population": 0
     },
     {
       "x": 29,
       "y": 22,
-      "name": "CITY_NAME",
+      "name": "Demyansk",
       "faction": "soviets",
       "population": 0
     },
     {
       "x": 4,
       "y": 24,
-      "name": "CITY_NAME",
+      "name": "Dedovichi",
       "faction": "soviets",
       "population": 0
     },
     {
       "x": 34,
       "y": 24,
-      "name": "CITY_NAME",
+      "name": "Polnovo",
       "faction": "soviets",
       "population": 0
     },
     {
       "x": 41,
       "y": 25,
-      "name": "CITY_NAME",
+      "name": "Velikooktyabrsky",
       "faction": "soviets",
       "population": 0
     },
     {
       "x": 16,
       "y": 26,
-      "name": "CITY_NAME",
+      "name": "Poddor'e",
       "faction": "soviets",
       "population": 0
     },
     {
       "x": 27,
       "y": 27,
-      "name": "CITY_NAME",
+      "name": "Molvotitsy",
       "faction": "soviets",
       "population": 0
     },
     {
       "x": 3,
       "y": 29,
-      "name": "CITY_NAME",
+      "name": "Chikhachevo",
       "faction": "soviets",
       "population": 0
     },
     {
       "x": 25,
       "y": 29,
-      "name": "CITY_NAME",
+      "name": "Maryovo",
       "faction": "soviets",
       "population": 0
     },
     {
       "x": 32,
       "y": 30,
-      "name": "CITY_NAME",
+      "name": "Svapushche",
       "faction": "soviets",
       "population": 0
     },
     {
       "x": 36,
       "y": 32,
-      "name": "CITY_NAME",
+      "name": "Ostashkov",
       "faction": "soviets",
       "population": 0
     },
     {
       "x": 1,
       "y": 33,
-      "name": "CITY_NAME",
+      "name": "Ashevo",
       "faction": "soviets",
       "population": 0
     },
     {
       "x": 16,
       "y": 33,
-      "name": "CITY_NAME",
+      "name": "Kholm",
       "faction": "soviets",
       "population": 0
     },
     {
       "x": 2,
       "y": 35,
-      "name": "CITY_NAME",
+      "name": "Bezhanitsy",
       "faction": "soviets",
       "population": 0
     },
     {
       "x": 32,
       "y": 36,
-      "name": "CITY_NAME",
+      "name": "Peno",
       "faction": "soviets",
       "population": 0
     },
     {
       "x": 21,
       "y": 37,
-      "name": "CITY_NAME",
+      "name": "Bologovo",
       "faction": "soviets",
       "population": 0
     },
     {
       "x": 26,
       "y": 37,
-      "name": "CITY_NAME",
+      "name": "Moskva",
       "faction": "soviets",
       "population": 0
     }
@@ -360,6 +339,11 @@
     {
       "x": 16,
       "y": 4,
+      "faction": "axis"
+    },
+    {
+      "x": 0,
+      "y": 10,
       "faction": "axis"
     },
     {
