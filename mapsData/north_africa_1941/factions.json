@@ -2,29 +2,29 @@
     "axis": {
         "id": "faction_0",
         "name": "axis",
-        "manpower_points": 2,
-        "manpower_income": 1.5,
-        "manpower_cap": 25,       
-        "fuel_points": 100,   
-        "fuel_income": 35,   
-        "fuel_cap": 1000, 
+        "manpower_points": 1.5,
+        "manpower_income": 0.4,
+        "manpower_cap": 25,
+        "fuel_points": 150,
+        "fuel_income": 20,
+        "fuel_cap": 1000,
         "airpower_points": 0,
-        "airpower_income": 0.28,   
+        "airpower_income": 0.28,
         "airpower_cap": 12,
-        "units_cap": 60           
+        "units_cap": 60
     },
     "allies": {
         "id": "faction_1",
         "name": "allies",
-        "manpower_points": 2,
-        "manpower_income": 2,
-        "manpower_cap": 25,       
-        "fuel_points": 100,   
-        "fuel_income": 60,   
-        "fuel_cap": 1000,  
+        "manpower_points": 1,
+        "manpower_income": 0.5,
+        "manpower_cap": 25,
+        "fuel_points": 100,
+        "fuel_income": 25,
+        "fuel_cap": 1000,
         "airpower_points": 0,
-        "airpower_income": 0.28,   
+        "airpower_income": 0.28,
         "airpower_cap": 12,
-        "units_cap": 60   
+        "units_cap": 60
     }
 }
