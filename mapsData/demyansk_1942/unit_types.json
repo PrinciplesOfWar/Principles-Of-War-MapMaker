@@ -107,9 +107,23 @@
         "attack": 2,
         "defense": 2,
         "movement": 4,
-        "cost": 3,
+        "cost": 4,
         "fuel_consumption": 3,
-        "frequency": 2
+        "frequency": 1
+    },
+    "soviet_cavalry_unit": {
+        "id": "soviet_cavalry_unit",
+        "name": "Soviet Cavalry Unit",
+        "description": "",
+        "faction": "soviets",
+        "branch": "light_infantry",
+        "icon": "soviet_cavalry_unit",
+        "attack": 2,
+        "defense": 1,
+        "movement": 3,
+        "cost": 3,
+        "fuel_consumption": 0,
+        "frequency": 1
     },
     "soviet_fortification": {
         "id": "soviet_fortification",
