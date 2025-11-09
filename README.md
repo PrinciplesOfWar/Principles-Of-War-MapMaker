@@ -46,3 +46,11 @@ pip install -r requirements.txt
 python main.py
 deactivate
 ```
+
+## Tiled - Map properties
+
+Tile Width = 120
+Tile Height = 140 
+Tile Side Length (Hex) = 74
+Stagger Axis = Y
+Stagger Index = Odd
