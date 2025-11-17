@@ -1,20 +1,21 @@
 from json import dump
 from xml.etree import ElementTree
-from sys import argv, exit
+from sys import exit
 from os import listdir, path
-
+from inquirer import List, prompt
 
 if __name__ == "__main__":
 
-    if len(argv) == 1:
-        map_id = input("Enter map_id: ")
-    else:
-        map_id = argv[1]
+    values = prompt([
+        List(
+            "map_id",
+            "map",
+            listdir("../mapsData")
+        ),
+    ])
 
-    if map_id not in listdir("../mapsData"):
-        print(f"ERROR: invalid map id '{map_id}'")
-        exit()
-
+    map_id = values["map_id"]
+        
     if path.exists(f"../mapsData/{map_id}/landmarks.json"):
         print(f"ERROR: '../mapsData/{map_id}/landmarks.json' already exists")
         exit()

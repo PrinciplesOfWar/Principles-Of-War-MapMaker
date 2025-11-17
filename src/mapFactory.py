@@ -69,6 +69,9 @@ class MapFactory:
             with open(self.path + "unitIcons/" + filename, "rb") as icon:
                 icon_binary = icon.read()
                 self.map.createUnitIcon(filename[:-4], b64encode(icon_binary).decode('utf-8'))
+        with open('../resources/unit/unknown.png', "rb") as icon:
+            icon_binary = icon.read()
+            self.map.createUnitIcon('unknown', b64encode(icon_binary).decode('utf-8'))
         
         for unit_type in unit_types.values():
             self.map.createUnitType(**unit_type)

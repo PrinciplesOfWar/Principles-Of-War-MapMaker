@@ -63,8 +63,9 @@ class MapObject:
             return
         
         if icon not in self.data["unit_icons"]:
-            print(f"ERROR: createUnitType: unit icon '{icon}' does not exist")
-            return
+            print(f"WARN: createUnitType: unit icon '{icon}' does not exist")
+            print(f"WARN: createUnitType: unit icon '{icon}' fallback to 'unknown.png'")        
+            self.createUnitIcon(icon, self.data["unit_icons"]["unknown"])
 
         self.data["unit_types"][id] = {
             "id": id,
@@ -99,6 +100,7 @@ class MapObject:
             return 
         
         if unit_type not in self.data["unit_types"]:
+            print(self.data["unit_types"])
             print(f"ERROR: createUnit: unit type '{unit_type}' does not exist")
             return 
 
